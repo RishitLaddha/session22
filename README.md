@@ -1,3 +1,6 @@
+<img width="1225" alt="Screenshot 2025-02-19 at 00 34 47" src="https://github.com/user-attachments/assets/372493ec-5196-4dee-9e77-46b9f11ca44e" />
+
+
 # Object-Oriented Inheritance System
 
 ## Overview
