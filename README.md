@@ -1,3 +1,5 @@
+[![Python application](https://github.com/RishitLaddha/session22/actions/workflows/python-app.yml/badge.svg)](https://github.com/RishitLaddha/session22/actions/workflows/python-app.yml)
+
 <img width="1225" alt="Screenshot 2025-02-19 at 00 34 47" src="https://github.com/user-attachments/assets/372493ec-5196-4dee-9e77-46b9f11ca44e" />
 
 
